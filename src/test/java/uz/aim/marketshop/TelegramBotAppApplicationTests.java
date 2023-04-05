@@ -1,0 +1,13 @@
+package uz.aim.marketshop;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class TelegramBotAppApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
